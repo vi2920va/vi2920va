@@ -2,7 +2,7 @@
   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:vi2920va@gmail.com" target="_blank"><img src="https://img.shields.io/badge/vi2920va@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.rocketpunch.com/@vi2920va" target="_blank">
-    <img src="https://img.shields.io/badge/-2FCEA0?style=flat-square&logo=Skyliner&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/LocketPunch-2FCEA0?style=flat-square&logo=Skyliner&logoColor=white"/></a>
 </p>
 
 <p>
