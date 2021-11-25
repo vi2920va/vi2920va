@@ -23,7 +23,6 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/styled--components-ff96b4??style=flat-square&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6??style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717??style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
